@@ -1,0 +1,15 @@
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\BeerCrate.exe
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\BeerCrate.deps.json
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\BeerCrate.runtimeconfig.json
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\BeerCrate.dll
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\ref\BeerCrate.dll
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\bin\Debug\net6.0\BeerCrate.pdb
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.csproj.AssemblyReference.cache
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.AssemblyInfoInputs.cache
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.AssemblyInfo.cs
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.csproj.CoreCompileInputs.cache
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.dll
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\ref\BeerCrate.dll
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.pdb
+C:\Users\flrm\source\repos\BeerCrate\BeerCrate\obj\Debug\net6.0\BeerCrate.genruntimeconfig.cache

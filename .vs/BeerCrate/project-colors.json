@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e4abe42-ac03-4579-b587-80a9734655a5": {
+      "ProjectGuid": "5e4abe42-ac03-4579-b587-80a9734655a5",
+      "DisplayName": "BeerCrate",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
